@@ -1,0 +1,103 @@
+{
+    "manufacturer": "Ayaskant Sahoo",
+    "keyboard_name": "Xeon Horizon",
+    "maintainer": "ayaskant007",
+    "bootloader": "rp2040",
+    "processor": "RP2040",
+    "url": "https://github.com/ayaskant007",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x5845",
+        "vid": "0xFEED"
+    },
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "oled": true,
+        "rgblight": true,
+        "encoder": true
+    },
+    "matrix_pins": {
+        "direct": [
+            [
+                "GP1",
+                "GP2",
+                "GP4",
+                "GP3",
+                "GP28"
+            ]
+        ]
+    },
+    "encoder": {
+        "rotary": [
+            {
+                "pin_a": "GP26",
+                "pin_b": "GP27",
+                "resolution": 4
+            }
+        ]
+    },
+    "ws2812": {
+        "pin": "GP29",
+        "driver": "vendor"
+    },
+    "rgblight": {
+        "led_count": 4,
+        "animations": {
+            "breathing": true,
+            "rainbow_mood": true,
+            "rainbow_swirl": true,
+            "snake": true,
+            "knight": true,
+            "twinkle": true
+        }
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {
+                    "matrix": [
+                        0,
+                        0
+                    ],
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "matrix": [
+                        0,
+                        1
+                    ],
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "matrix": [
+                        0,
+                        2
+                    ],
+                    "x": 2,
+                    "y": 0
+                },
+                {
+                    "matrix": [
+                        0,
+                        3
+                    ],
+                    "x": 3,
+                    "y": 0
+                },
+                {
+                    "matrix": [
+                        0,
+                        4
+                    ],
+                    "x": 5,
+                    "y": 0
+                }
+            ]
+        }
+    }
+}
