@@ -9,7 +9,7 @@ A unique feature of the Horizon is its upward-facing SK6812 MINI E RGB lighting,
 ## Project Showcase
 
 ### The Hackpad
-![Overall Hackpad](https://myimgs.org/storage/images/18406/image%20(7).png)
+![Overall Hackpad](https://i.ibb.co/k66KH6jV/image-7.png)
 
 ### Case Assembly
 ![Case Assembly](https://i.ibb.co/fVc9bRCY/image.png)
