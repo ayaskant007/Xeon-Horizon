@@ -15,7 +15,7 @@
         "extrakey": true,
         "mousekey": true,
         "nkro": true,
-        "oled": true,
+        "oled": false,
         "rgblight": true,
         "encoder": true
     },
