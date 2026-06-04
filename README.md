@@ -64,3 +64,14 @@ A unique feature of the Horizon is its upward-facing SK6812 MINI E RGB lighting,
 4. Compile the firmware: `qmk compile -kb xeon -km default`
 5. Double-tap the reset button on the XIAO RP2040.
 6. Drag and drop the generated `.uf2` file into the `RPI-RP2` drive.
+
+---
+
+## Bill of Materials (BOM)
+
+
+| Name | Purpose | Qty | Total (INR) |
+| :--- | :--- | :---: | :---: |
+| **3D PRINTED CASE FROM PRINTING LEGION** | For volume control | 1 | 300INR |
+| **HACKPAD KIT FROM HACK CLUB** | for getting the components for the pcb | 1 | - |
+| **PCB FROM LIONCIRCUITS** | for getting the components for the pcb | 1 | 1200INR |
