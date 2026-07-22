@@ -8,6 +8,8 @@ A unique feature of the Horizon is its upward-facing SK6812 MINI E RGB lighting,
 
 ## Project Showcase
 
+![Demo Video](https://youtu.be/cCljSfHtNLw?si=nqkD094vY3MVkHw3)
+
 <img width="2160" height="3840" alt="image" src="https://github.com/user-attachments/assets/fc91d816-c3af-4d28-9200-9447d858db5a" />
 
 ![Built Project](https://i.ibb.co/0y6bx9k4/image.png)
